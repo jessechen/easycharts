@@ -1,9 +1,9 @@
 Easycharts
 ----------
 
-`easychart.*` is an example of a bare-bones chart.
-`optionchart.*` is an example of a more typical chart.
-`jsonchart.*` is an example of a chart that reads its data from a json file.
+`basic-chart.*` is an example of a bare-bones chart.
+`option-chart.*` is an example of a more typical chart.
+`json-chart.*` is an example of a chart that reads its data from a json file.
 
 `python3 -m http.server` starts an http server that serves your current directory.
 
