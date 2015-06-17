@@ -1,5 +1,5 @@
 $(function () {
-    $.get('data.json', function(file) {
+    $.get('json-chart.json', function(file) {
         $('#chart').highcharts({
             chart: {zoomType: 'x'},
             title: {text: 'Microphone signal amplitude'},
